@@ -6,7 +6,7 @@ import pandas as pd
 # https://raw.githubusercontent.com/huhshin/streamlit/master/data_iris.csv 읽고 나타내기 
 def main_page():
     st.header('Main Page')
-    st.image('https://images.pexels.com/photos/5677011/pexels-photo-5677011.jpeg?auto=compress&cs=tinysrgb&w=200')
+    st.image('https://png.pngtree.com/png-clipart/20250127/original/pngtree-close-up-of-white-gerbera-flower-png-image_19650031.png')
     iris = pd.read_csv('https://raw.githubusercontent.com/huhshin/streamlit/master/data_iris.csv')
     st.write(iris)
     
