@@ -1,3 +1,3 @@
 import streamlit as st
-st.title('제목')
-st.write('## 부제목')
+st.title('병병병')
+st.write('## 병병병')
